@@ -1,0 +1,2 @@
+# RocketMQ_NameServer_HA_Test
+RocketMQ集群NameServer高可用测试
